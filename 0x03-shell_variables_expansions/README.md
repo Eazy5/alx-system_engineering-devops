@@ -1,0 +1,3 @@
+README.md
+# Shell, init files, variables and expansions
+
